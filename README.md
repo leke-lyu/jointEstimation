@@ -3,13 +3,9 @@
 
 This repository contains the code, scripts, and data that support the analyses and findings of [our research paper](https://doi.org/10.1101/2024.09.18.24313896).
 
-## Data
+## Significance Statement
 
-The GISAID accession IDs of the genomes used in this study are provided.
-
-`data/texasDelta.csv`: 24,593 SARS-CoV-2 genomes (Delta variant) sampled in Texas
-
-`data/worldwideDelta.csv`: 6,386 Delta genomes from 49 countries 
+The growing recognition of genome sequencing as a critical tool for outbreak response has driven a rapid increase in the availability of sequence data. Here, we present an analytical workflow to trace imported SARS-CoV-2 clusters using large-scale genome datasets. Our approach pinpoints when, where, and how many introductions occurred, while also tracking the circulation of resulting clusters. By incorporating metrics such as the Source Sink Score, Local Import Score, and Persistence Time, our analysis reveals transmission heterogeneity between subregions of the focal area. These insights are essential for monitoring viral introductions and guiding targeted control measures, enhancing the ability of local responders to address the challenges of current and future pandemics as new variants emerge.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
