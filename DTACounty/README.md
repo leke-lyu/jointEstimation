@@ -20,22 +20,6 @@ For full methodological details, see [Lyu et al. (2025)](https://doi.org/10.1073
 05_localPhylogeographicAnalysis.sh   Aggregate metrics → generate map and metric plots
 ```
 
-## Geographic scope
-
-The 9 counties of Greater Houston:
-
-| County | Role in paper |
-|--------|--------------|
-| Harris | Primary viral source (SSS ~ 0.93) |
-| Fort Bend | Top recipient from Harris |
-| Montgomery | Second-largest recipient from Harris |
-| Brazoria | Recipient from Harris |
-| Galveston | Intermediate |
-| Liberty | Peripheral |
-| Waller | Peripheral |
-| Chambers | Peripheral |
-| Austin | Peripheral (smallest sample) |
-
 ## Prerequisites
 
 Outputs from the `introductionAnalysis` stage:
